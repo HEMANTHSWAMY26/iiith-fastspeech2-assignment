@@ -1,0 +1,40 @@
+language: English
+path:
+  raw_path: /kaggle/working/raw_data/English
+  filelist_path: /kaggle/working/filelists/English
+  preprocessed_path: /kaggle/working/preprocessed_data/English
+  ckpt_path: /kaggle/working/project/English/checkpoints
+  results_path: /kaggle/working/project/Results/English
+preprocessing:
+  sampling_rate: 22050
+  filter_length: 1024
+  hop_length: 256
+  win_length: 1024
+  n_mel_channels: 80
+  mel_fmin: 0
+  mel_fmax: 8000
+model:
+  encoder_layer: 4
+  encoder_head: 2
+  encoder_hidden: 256
+  decoder_layer: 4
+  decoder_head: 2
+  decoder_hidden: 256
+  conv_filter_size: 1024
+  conv_kernel_size:
+  - 9
+  - 1
+  encoder_dropout: 0.2
+  decoder_dropout: 0.2
+  variance_predictor_filter_size: 256
+  variance_predictor_kernel_size: 3
+  variance_predictor_dropout: 0.5
+  max_seq_len: 1000
+  n_bins: 256
+train:
+  batch_size: 32
+  learning_rate: 0.0005
+  epochs: 25
+  save_step: 2000
+  val_step: 500
+  grad_clip_thresh: 1.0

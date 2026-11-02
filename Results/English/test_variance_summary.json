@@ -1,0 +1,57 @@
+{
+  "E1": {
+    "num_tokens": 98,
+    "total_mel_frames": 686,
+    "audio_duration_sec": 7.95,
+    "mean_duration_frames": 7.0,
+    "max_duration_frames": 7,
+    "mean_pitch_hz": 215.7,
+    "std_pitch_hz": 4.87,
+    "mean_energy": 24.29,
+    "tokens_preview": "DH AH0 SP AE2 N T AY0 D IH0 S AH0 S T AE2 B L IH0 SH M AH0 N T EH1 R IY0"
+  },
+  "E2a": {
+    "num_tokens": 63,
+    "total_mel_frames": 441,
+    "audio_duration_sec": 5.11,
+    "mean_duration_frames": 7.0,
+    "max_duration_frames": 7,
+    "mean_pitch_hz": 216.12,
+    "std_pitch_hz": 6.03,
+    "mean_energy": 24.5,
+    "tokens_preview": "DH AH0 SP AO1 R K AH0 S T R AH0 Z SP K AA1 N D AH0 K T SP D UH1 R IH0"
+  },
+  "E2b": {
+    "num_tokens": 68,
+    "total_mel_frames": 476,
+    "audio_duration_sec": 5.51,
+    "mean_duration_frames": 7.0,
+    "max_duration_frames": 7,
+    "mean_pitch_hz": 216.03,
+    "std_pitch_hz": 5.81,
+    "mean_energy": 24.46,
+    "tokens_preview": "DH AH0 SP R IY1 S ER0 CH ER0 Z SP W IH1 L SP K AA0 N D AH1 K T SP AE1 N"
+  },
+  "E3": {
+    "num_tokens": 46,
+    "total_mel_frames": 322,
+    "audio_duration_sec": 3.73,
+    "mean_duration_frames": 7.0,
+    "max_duration_frames": 7,
+    "mean_pitch_hz": 216.56,
+    "std_pitch_hz": 7.0,
+    "mean_energy": 24.71,
+    "tokens_preview": "DH AH0 SP R AY1 DH SP EH1 M SP AH1 V SP DH AH0 SP AO1 R K AH0 S T R AH0 SP"
+  },
+  "E4": {
+    "num_tokens": 109,
+    "total_mel_frames": 763,
+    "audio_duration_sec": 8.85,
+    "mean_duration_frames": 7.0,
+    "max_duration_frames": 7,
+    "mean_pitch_hz": 215.62,
+    "std_pitch_hz": 4.62,
+    "mean_energy": 24.26,
+    "tokens_preview": "DH AH0 SP M IY1 T IH0 NG SP W IH1 L SP S T AA1 R T SP AE1 T SP T EH1 N"
+  }
+}
