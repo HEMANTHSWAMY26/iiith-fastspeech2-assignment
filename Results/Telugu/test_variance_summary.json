@@ -1,57 +1,42 @@
 {
   "T1": {
-    "num_tokens": 68,
-    "total_mel_frames": 601,
-    "audio_duration_sec": 6.97,
-    "mean_duration_frames": 8.84,
-    "max_duration_frames": 12,
-    "mean_pitch_hz": 211.9,
-    "std_pitch_hz": 20.15,
-    "mean_energy": 30.23,
-    "tokens_preview": "న ్ య ూ ర ో ఫ ా ర ్ మ క ో ల ా జ ి క ల ్ SP ప ర ి శ"
+    "num_tokens": 43,
+    "total_mel_frames": 607,
+    "audio_duration_sec": 7.05,
+    "mean_duration_frames": 14.12,
+    "mean_pitch_hz": 119.1,
+    "mean_energy": 59.37
   },
   "T2a": {
-    "num_tokens": 34,
-    "total_mel_frames": 300,
-    "audio_duration_sec": 3.47,
-    "mean_duration_frames": 8.82,
-    "max_duration_frames": 12,
-    "mean_pitch_hz": 214.0,
-    "std_pitch_hz": 24.83,
-    "mean_energy": 33.01,
-    "tokens_preview": "త ా డ ు ప ై SP అ త న ి SP ప ట ్ ట ు SP చ ా ల ా SP బ ల"
+    "num_tokens": 41,
+    "total_mel_frames": 469,
+    "audio_duration_sec": 5.44,
+    "mean_duration_frames": 11.56,
+    "mean_pitch_hz": 125.2,
+    "mean_energy": 49.87
   },
   "T2b": {
-    "num_tokens": 40,
-    "total_mel_frames": 355,
-    "audio_duration_sec": 4.11,
-    "mean_duration_frames": 8.88,
-    "max_duration_frames": 12,
-    "mean_pitch_hz": 212.16,
-    "std_pitch_hz": 20.77,
-    "mean_energy": 31.27,
-    "tokens_preview": "ఆ మ ె SP ప ట ్ ట ు SP చ ీ ర న ు SP ధ ర ి ం చ ి SP వ ే"
+    "num_tokens": 42,
+    "total_mel_frames": 397,
+    "audio_duration_sec": 4.6,
+    "mean_duration_frames": 9.45,
+    "mean_pitch_hz": 121.4,
+    "mean_energy": 58.32
   },
   "T3": {
-    "num_tokens": 34,
-    "total_mel_frames": 298,
-    "audio_duration_sec": 3.45,
-    "mean_duration_frames": 8.76,
-    "max_duration_frames": 12,
-    "mean_pitch_hz": 213.61,
-    "std_pitch_hz": 23.84,
-    "mean_energy": 33.78,
-    "tokens_preview": "ప ు ల ి SP అ డ SP వ ి ల ో SP న ి శ ్ శ బ ్ ద ం గ ా SP"
+    "num_tokens": 31,
+    "total_mel_frames": 454,
+    "audio_duration_sec": 5.27,
+    "mean_duration_frames": 14.65,
+    "mean_pitch_hz": 148.2,
+    "mean_energy": 37.63
   },
   "T4": {
-    "num_tokens": 124,
-    "total_mel_frames": 1106,
-    "audio_duration_sec": 12.83,
-    "mean_duration_frames": 8.92,
-    "max_duration_frames": 13,
-    "mean_pitch_hz": 208.75,
-    "std_pitch_hz": 13.93,
-    "mean_energy": 27.84,
-    "tokens_preview": "ఈ SP స మ ా వ ే శ ం SP ర ె ం డ ు SP వ ే ల SP ఇ ర వ ై SP"
+    "num_tokens": 60,
+    "total_mel_frames": 665,
+    "audio_duration_sec": 7.72,
+    "mean_duration_frames": 11.08,
+    "mean_pitch_hz": 135.1,
+    "mean_energy": 62.52
   }
 }
